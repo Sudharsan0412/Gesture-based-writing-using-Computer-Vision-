@@ -1,0 +1,2 @@
+# Gesture-based-writing-using-Computer-Vision-
+The Gesture based writing method described is a real-time video-based pointing system that enables users to sketch and write English text in the air using a coloured fingertip. The colour detection &amp; tracking technique used in this method allows the software to track the coloured fingertip &amp; produce a mask, which is then subjected to operations
