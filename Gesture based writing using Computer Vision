@@ -1,0 +1,6 @@
+The Gesture based writing method described is a real-time video-based pointing system that enables users to sketch and write English text in the air using a coloured fingertip. 
+The colour detection & tracking technique used in this method allows the software to track the coloured fingertip & produce a mask, which is then subjected to morphological operations such as erosion & dilation.
+Erosion is a morphological operation that shrinks the mask, effectively reducing impurities present in the image, which helps to clean up the image and remove any small or unwanted features that may interfere with the tracking process. 
+On the other hand, dilation is the opposite of erosion & works to expand the mask, which helps to restore the eroded areas of the main mask.
+The method can be useful for a variety of applications, such as virtual whiteboarding, remote teaching, or teleconferencing & also used by disabled person who wants to write while teaching, where users can easily write or sketch ideas without the need for a physical writing surface.
+Furthermore, the technique is relatively low cost & accessible, requiring only a camera & a coloured marker, making it a potential alternative to more expensive & complex pointing devices.
